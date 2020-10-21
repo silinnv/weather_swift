@@ -1,6 +1,5 @@
-# corewar
 # Weather iOS app
-<img src="images/weather_app_main_screen.png" width="50%" height="50%"><img src="images/weather_app_cities_list.png" width="50%" height="50%">
+<img src="images/weather_app_main_screen.png" width="50%" height="50%"><img src="images/weather_app_cities_screen.png" width="50%" height="50%">
 
 This is a simple weather app that consists of two screens.  
 Architecture - MVC  
